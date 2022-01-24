@@ -1,0 +1,44 @@
+body {
+  background: #EEEEEE;
+}
+
+#title{
+  text-align: center;
+}
+
+#description{
+  text-align: center;
+}
+
+#img-div{
+  width: 90%;
+  background: white;
+  padding: auto;
+  margin: auto;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+
+#image{
+  width: 50%;
+  max-width:1000px;
+}
+
+#img-caption{
+  margin-top: 2%;
+  width: 49%;
+}
+
+#title-2{
+  text-align: center;
+}
+
+#lista{
+  width: 50%;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  padding: auto;
+  margin: auto;
+}
